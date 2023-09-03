@@ -859,6 +859,10 @@ a:hover {
   height: 0.7rem;
   background-color: #0078ff;
 }
+.about-me{
+  height: 500px;
+  overflow: scroll;
+}
 
 /*--------------------------------------------------------------
 # Services

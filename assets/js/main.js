@@ -5,6 +5,10 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+document.addEventListener('contextmenu', function(e) {
+  e.preventDefault();
+}, false);
 (function() {
   "use strict";
 
